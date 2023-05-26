@@ -1,0 +1,17 @@
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\bin\Debug\net6.0-windows\BubbleSortModified.exe
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\bin\Debug\net6.0-windows\BubbleSortModified.deps.json
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\bin\Debug\net6.0-windows\BubbleSortModified.runtimeconfig.json
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\bin\Debug\net6.0-windows\BubbleSortModified.dll
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\bin\Debug\net6.0-windows\BubbleSortModified.pdb
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.csproj.AssemblyReference.cache
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.Burbuja.resources
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.csproj.GenerateResource.cache
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.AssemblyInfoInputs.cache
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.AssemblyInfo.cs
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.csproj.CoreCompileInputs.cache
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.dll
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\refint\BubbleSortModified.dll
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.pdb
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\BubbleSortModified.genruntimeconfig.cache
+C:\Users\brein\source\repos\BubbleSortModified\BubbleSortModified\obj\Debug\net6.0-windows\ref\BubbleSortModified.dll
